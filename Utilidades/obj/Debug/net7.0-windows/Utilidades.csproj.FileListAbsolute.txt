@@ -1,0 +1,5 @@
+C:\Proyecto_Universidad\UNIVERSIDAD\Utilidades\obj\Debug\net7.0-windows\Utilidades.csproj.AssemblyReference.cache
+C:\Proyecto_Universidad\UNIVERSIDAD\Utilidades\obj\Debug\net7.0-windows\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_Universidad\UNIVERSIDAD\Utilidades\obj\Debug\net7.0-windows\Utilidades.AssemblyInfoInputs.cache
+C:\Proyecto_Universidad\UNIVERSIDAD\Utilidades\obj\Debug\net7.0-windows\Utilidades.AssemblyInfo.cs
+C:\Proyecto_Universidad\UNIVERSIDAD\Utilidades\obj\Debug\net7.0-windows\Utilidades.csproj.CoreCompileInputs.cache

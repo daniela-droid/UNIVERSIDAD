@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Vistas\FORM_Asignatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Form_Carrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\form_Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Form_inscripciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Form_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Form_mensualidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Form_pagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\frm_ESTUDIANTES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Frm_Facultades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\frm_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\frm_Rol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Frm_turnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vistas\Fr_matricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

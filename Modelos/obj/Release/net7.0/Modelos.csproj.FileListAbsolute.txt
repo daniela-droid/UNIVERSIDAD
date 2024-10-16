@@ -1,0 +1,12 @@
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\bin\Release\net7.0\Modelos.deps.json
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\bin\Release\net7.0\Modelos.dll
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\bin\Release\net7.0\Modelos.pdb
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\obj\Release\net7.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\obj\Release\net7.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\obj\Release\net7.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\obj\Release\net7.0\Modelos.AssemblyInfo.cs
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\obj\Release\net7.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\obj\Release\net7.0\Modelos.dll
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\obj\Release\net7.0\refint\Modelos.dll
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\obj\Release\net7.0\Modelos.pdb
+C:\Users\vegad\Desktop\UNIVERSIDAD\Modelos\obj\Release\net7.0\ref\Modelos.dll
